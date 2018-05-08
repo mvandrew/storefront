@@ -5,7 +5,7 @@
   "homepage": "http://woocommerce.com/storefront/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/woothemes/storefront.git"
+    "url": "https://github.com/mvandrew/storefront.git"
   },
   "scripts": {
     "build": "grunt",
